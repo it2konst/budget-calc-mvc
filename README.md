@@ -1,5 +1,7 @@
 <strong>Budget Calculator</strong><br>
 
+![budget-calc-mvc](https://github.com/user-attachments/assets/dd1a4e36-f758-4cb4-a8b8-e9bb19b14411)
+
 <strong>Description:</strong><br>
 "Budget Calculator" is a web application developed using the MVC (Model-View-Controller) architecture in JavaScript. This application allows users to easily track and manage their income and expenses, providing a convenient interface for inputting and analyzing financial data.
 
