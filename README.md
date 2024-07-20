@@ -1,4 +1,4 @@
-<strong>Budget Calculator</strong><br>
+<strong>Budget Calculator (MVC)</strong><br>
 
 ![budget-calc-mvc](https://github.com/user-attachments/assets/dd1a4e36-f758-4cb4-a8b8-e9bb19b14411)
 
