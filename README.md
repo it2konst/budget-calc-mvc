@@ -15,7 +15,7 @@ Ability to filter and sort transactions.
 JavaScript (MVC)
 HTML/CSS
 
-//---------------------------------------------------------
+---
 
 <strong>Бюджетный калькулятор</strong><br>
 
